@@ -1,5 +1,10 @@
 # 🌐 Simple HTTP Web Server Project
 
+## Partners:
+- Shaheer Mustafa Awan ([ShaheerMustafaAwan](https://github.com/ShaheerMustafaAwan))
+- Amna Mubashir ([Amnamubashir](https://github.com/Amnamubashir))
+
+## Overview:
 This project demonstrates a basic HTTP web server using multiple frameworks:
 - Python (Flask)
 - Node.js (Express)
